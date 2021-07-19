@@ -32,7 +32,9 @@ Banking, Retail, Human Resources, Aviation, Distribution, Manufacturing and Tran
 ## 🌱 Latest news about me...
 
 Over time, IT solutions became more complex tools that required to be managed by more specific profiles, whether functional or technical.
-Thus, my professional experience led me to play a mostly functional role throughout the projects in which I was participating. However, I was always drawn to being able to participate in technical tasks. So I started to refresh my programming skills through the study of the Fullstack web developer bootcamp. This repository is the result of several months of continuous effort and dedication.
+Thus, my professional experience led me to play a mostly functional role throughout the projects in which I was participating. However, I was always drawn to being able to participate in technical tasks. 
+
+So I started to refresh my programming skills through the study of the Fullstack web developer bootcamp. This repository is the result of several months of continuous effort and dedication.
 
 ## 💬 I've been trained in...
 
