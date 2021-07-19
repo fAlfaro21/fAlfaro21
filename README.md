@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 Who am I in a few words...
+🔭 `Who am I in a few words...`
 
 • I'm an IT Consultant with more than 15 years of business consulting experience in the Technology Information's Industry (IBM Maximo, IBM 
 Tririga, SAP HCM, HR Access).
@@ -27,22 +27,22 @@ Banking, Retail, Human Resources, Aviation, Distribution, Manufacturing and Tran
 
 • I've been assigned to projects in different geographies and languages (USA, Canada, Latin America, and Europe).
 
-🌱 Latest news about me...
+🌱 `Latest news about me...`
 
 Over time, IT solutions became more complex tools that required to be managed by more specific profiles, whether functional or technical.
 Thus, my professional experience led me to play a mostly functional role throughout the projects in which I was participating. However, I was always drawn to being able to participate in technical tasks. So I started to refresh my programming skills through the study of the Fullstack web developer bootcamp. This repository is the result of several months of continuous effort and dedication.
 
-💬 I've been trained in...
+💬 `I've been trained in...`
 
 •	Frontend Web Development: HTML, CSS, JavaScript, React
 
 •	Backend development: API Rest, Node.js, MySQL, Mongo, Firebase
 
-👯 Collaboration
+👯 `Collaboration`
 
 I would love to collaborate with a company where I can demonstrate my programming skills and help create useful applications.
 
-📫 How to reach me...
+📫 `How to reach me...`
 
 My email: [alfarogr@hotmail.com](alfarogr@hotmail.com)
 
