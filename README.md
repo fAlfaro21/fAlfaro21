@@ -19,10 +19,12 @@ Here are some ideas to get you started:
 
 • I'm an IT Consultant with more than 15 years of business consulting experience in the Technology Information's Industry (IBM Maximo, IBM 
 Tririga, SAP HCM, HR Access).
+
 • I've been involved in the delivery of more than 25 client projects within several sectors: Public Sector, Oil & Gas, Telecommunications, 
-Banking, Retail, Human Resources, Aviation, Distribution, Manufacturing and Transportation. Currently involved in the field of EAM 
-(Enterprise Asset Management) solutions.
+Banking, Retail, Human Resources, Aviation, Distribution, Manufacturing and Transportation. 
+
 • I have an extensive experience in process reengineering and complete cycles for the implementation of computer solutions (analysis, design, development, testing and go live).
+
 • I've been assigned to projects in different geographies and languages (USA, Canada, Latin America, and Europe).
 
 🌱 Latest news about me...
@@ -33,6 +35,7 @@ Thus, my professional experience led me to play a mostly functional role through
 💬 I've been trained in...
 
 •	Frontend Web Development: HTML, CSS, JavaScript, React
+
 •	Backend development: API Rest, Node.js, MySQL, Mongo, Firebase
 
 👯 Collaboration
@@ -42,4 +45,5 @@ I would love to collaborate with a company where I can demonstrate my programmin
 📫 How to reach me...
 
 My email: [alfarogr@hotmial.com](alfarogr@hotmial.com)
+
 My [LinkedIn](https://www.linkedin.com/in/fernando-alfaro-9870498) 
