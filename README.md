@@ -44,6 +44,6 @@ I would love to collaborate with a company where I can demonstrate my programmin
 
 📫 How to reach me...
 
-My email: [alfarogr@hotmial.com](alfarogr@hotmial.com)
+My email: [alfarogr@hotmail.com](alfarogr@hotmail.com)
 
 My [LinkedIn](https://www.linkedin.com/in/fernando-alfaro-9870498) 
