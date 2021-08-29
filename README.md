@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## 🔭 Who am I in a few words...
 
 • I'm an IT Consultant with more than 15 years of business consulting experience in the Technology Information's Industry (IBM Maximo, IBM 
-Tririga, SAP HCM, HR Access).
+Tririga, SAP HCM, HR Access). Recently converted into a fullstack web developer ( Junior at the moment ).
 
 • I've been involved in the delivery of more than 25 client projects within several sectors: Public Sector, Oil & Gas, Telecommunications, 
 Banking, Retail, Human Resources, Aviation, Distribution, Manufacturing and Transportation. 
@@ -38,7 +38,7 @@ So I started to refresh my programming skills through the study of the Fullstack
 
 ## 💬 I've been trained in...
 
-•	Frontend Web Development: HTML, CSS, JavaScript, React
+•	Frontend Web Development:  HTML, CSS/SASS, JavaScript/JSX, React/Redux, Jest/Enzyme.
 
 •	Backend development: API Rest, Node.js, MySQL, Mongo, Firebase
 
