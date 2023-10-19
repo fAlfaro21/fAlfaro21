@@ -20,14 +20,14 @@ Here are some ideas to get you started:
 ## 🔭 Who am I in a few words...
 
 • I'm an IT Consultant with more than 15 years of business consulting experience in the Technology Information's Industry (IBM Maximo, IBM 
-Tririga, SAP HCM, HR Access). Recently converted into a fullstack web developer.
+Tririga, SAP HCM, HR Access) turned into a Fullstack Web Developer specialized in Backend (NodeJS, NestJS, Typescript) and experience with MySQL DB.
 
 • I've been involved in the delivery of more than 25 client projects within several sectors: Public Sector, Oil & Gas, Telecommunications, 
 Banking, Retail, Human Resources, Aviation, Distribution, Manufacturing and Transportation. 
 
-• I have an extensive experience in process reengineering and complete cycles for the implementation of computer solutions (analysis, design, development, testing and go live).
+• I have an extensive experience in complete cycles for the implementation of computer solutions (analysis, design, development, testing and go live).
 
-• I've been assigned to projects in different geographies and languages (USA, Canada, Latin America, and Europe).
+• I've been assigned to projects in different geographies, with international teams, and on site/hybrid/remote basis.
 
 ## 🌱 Latest news about me...
 
