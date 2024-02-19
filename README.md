@@ -42,7 +42,7 @@ So I started to refresh my programming skills through the study of the Fullstack
 
 • Backend: API Rest, NodeJS, ExpressJS, PL-SQL.
 
-• Data Bases: MySQL, MongoDB y Firebase.
+• Data Bases: MySQL, MongoDB and Firebase.
 
 • Deployment: Netlify, Heroku, AmazonWS.
 
