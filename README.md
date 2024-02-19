@@ -39,9 +39,13 @@ So I started to refresh my programming skills through the study of the Fullstack
 ## 💬 I've been trained in...
 
 •	Frontend: HTML, CSS/SASS, JavaScript, React/Redux, Jest/Cypress.
+
 • Backend: API Rest, NodeJS, ExpressJS, PL-SQL.
+
 • Data Bases: MySQL, MongoDB y Firebase.
+
 • Deployment: Netlify, Heroku, AmazonWS.
+
 • Development tools: Git Bash, VisualCode, GitHub, Postman.
 
 
